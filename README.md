@@ -26,7 +26,7 @@ You really thought
   </details>
 
 <details>
-  <summary><b>hack no work!!!</b></summary>
+  <summary><b>no work!!!</b></summary>
   🌰sack Menu v2, the worst menu ever
 </details>
 
